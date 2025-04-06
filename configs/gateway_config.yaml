@@ -1,0 +1,8 @@
+gateway:
+  receiver:
+    RF: default
+    Ethernet: default
+  sender:
+    RF: default
+    Ethernet: default
+  messageParser: "JSON"
