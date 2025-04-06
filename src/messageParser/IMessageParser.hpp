@@ -12,3 +12,5 @@ public:
     virtual ~IMessageParser() {};
     virtual parseMessageHeader(const std::string& message) = 0;
 }
+
+#endif // MESSAGEPARSER_HPP
